@@ -1,0 +1,17 @@
+/*SECTION-HEADER*/
+
+header {
+    background: url(../images/header-bg.png) center center no-repeat scroll #fff;
+    background-size: cover;
+    color: #fff;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+footer {
+    background: url(../images/header-bg.png) center center no-repeat scroll #e4e4e4;
+    background-size: cover;
+    color: #fff;
+    padding-bottom: 10px;
+    position: relative;
+}

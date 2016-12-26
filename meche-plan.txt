@@ -1,0 +1,71 @@
+1) header
+
+	1)navbar
+	2)title-header
+	3)underline
+	4)description
+	5)button
+
+2) about
+	1) left
+		1) title
+		2) underline
+		3) description
+		4) link-image
+	2)right
+		1) monitor.png
+
+3)services
+	1) title
+	2) underline
+	3) description
+	4) col-md-3*4
+		1) s1.png
+		2) icon-title
+4)qoute
+	1) carousel
+5)prices
+	1) title
+	2) underline
+	3) text
+	4) thumbnail, col-md-3
+		1) header
+		2) button
+		3) body
+			1) list
+			2) button
+6)products
+	1) col-md-4*3 
+	2) col-md-4*3
+		left: fa-icon, right: 1) icon-title
+				      2) description
+	
+7)join-us
+	1) left:Title sith span; right: button;
+8)latest
+	1) title
+	2) underline
+	3) description
+	4) col-md-4*3
+		1) header-image
+		2) description
+	5) link
+	6) Down arrow
+
+9)free-psd
+	1)title
+	2)underline
+	3) description
+	4) button
+10) share
+	1) left
+		1)image
+	2) right
+		2)title
+		2)underline
+		3)description
+		4)button
+
+11) footer
+	1) left
+	2) right
